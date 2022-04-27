@@ -1,2 +1,5 @@
-# mathlib
-Linear Algebra library in C++ for rendering
+# Linear Algebra Library
+***
+
+## mathlib - A lightweight, simple to use, easy to implement math library. 
+
